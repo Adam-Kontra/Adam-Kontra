@@ -1,7 +1,7 @@
 - Hi, I’m @Adam-Kontra!
 - I’m interested in frontend, backend web development.
-- I’m currently learning Django, Tailwind, JavaScript.
-- I’m currently colaborating on projects for student organization InternetKlub, mainly concerning web development.
+- I’m currently learning Node.js, Next.js, Django, Tailwind.
+- I’m currently colaborating on projects for startup company coal.zone and for student organization InternetKlub, mainly concerning web development.
 - You can reach me via email -> adam.kontra1@gmail.com
 
 <!---
